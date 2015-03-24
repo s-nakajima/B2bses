@@ -1,0 +1,222 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+# fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2015-03-02 04:50+0000\n"
+"PO-Revision-Date: 2015-03-17 19:28+0900\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.7.4\n"
+"Language: ja_JP\n"
+
+#: /Controller/B2bsesAppController.php:328 /View/B2bses/view.ctp:102
+msgid "Latest post order"
+msgstr "最新の投稿順"
+
+#: /Controller/B2bsesAppController.php:334 /View/B2bses/view.ctp:108
+msgid "Older post order"
+msgstr "古い投稿順"
+
+#: /Controller/B2bsesAppController.php:340 /View/B2bses/view.ctp:114
+msgid "Descending order of comments"
+msgstr "コメントの多い順"
+
+#: /Controller/B2bsesAppController.php:357 /View/B2bsComments/view.ctp:57
+#: /View/B2bsPosts/view.ctp:48 /View/B2bses/view.ctp:53
+msgid "Published"
+msgstr "公開中"
+
+#: /Controller/B2bsesAppController.php:384 /View/B2bses/view.ctp:65
+#: /View/Elements/post_workflow_buttons.ctp:20
+#: /View/Elements/status_label.ctp:24
+msgid "Remand"
+msgstr "差し戻し"
+
+#: /Controller/B2bsesAppController.php:393 /View/B2bsComments/view.ctp:67
+#: /View/B2bsPosts/view.ctp:54 /View/Elements/status_label.ctp:30
+msgid "Disapproval"
+msgstr "未承認"
+
+#: /Controller/B2bsesAppController.php:403 /View/B2bsComments/view.ctp:52
+#: /View/B2bsPosts/view.ctp:45 /View/B2bses/view.ctp:41
+msgid "Display all posts"
+msgstr "全て表示"
+
+#: /Controller/B2bsesAppController.php:409 /View/B2bses/view.ctp:47
+msgid "Unread"
+msgstr "未読"
+
+#: /Model/B2bs.php:103 /View/Elements/B2bses/edit.ctp:3
+msgid "B2bs name"
+msgstr "掲示板名称"
+
+#: /Model/B2bsPost.php:95 /View/Elements/B2bsComments/add_comment_form.ctp:15
+#: /View/Elements/B2bsPosts/post_form.ctp:3
+msgid "Title"
+msgstr "タイトル"
+
+#: /Model/B2bsPost.php:103 /View/Elements/B2bsComments/add_comment_form.ctp:47
+#: /View/Elements/B2bsPosts/post_form.ctp:33
+msgid "Content"
+msgstr "本文"
+
+#: /View/B2bsAuthoritySettings/edit.ctp:11 /View/B2bsFrameSettings/edit.ctp:11
+#: /View/B2bses/edit.ctp:11
+msgid "Plugin name"
+msgstr "掲示板"
+
+#: /View/B2bsAuthoritySettings/edit.ctp:18 /View/B2bsFrameSettings/edit.ctp:18
+#: /View/B2bses/edit.ctp:17
+msgid "B2bs edit"
+msgstr "編集"
+
+#: /View/B2bsAuthoritySettings/edit.ctp:24 /View/B2bsFrameSettings/edit.ctp:23
+#: /View/B2bses/edit.ctp:23
+msgid "Display change"
+msgstr "表示方法変更"
+
+#: /View/B2bsAuthoritySettings/edit.ctp:29 /View/B2bsFrameSettings/edit.ctp:29
+#: /View/B2bses/edit.ctp:29
+msgid "Authority setting"
+msgstr "権限設定"
+
+#: /View/B2bsComments/add.ctp:21
+msgid "Create comment"
+msgstr "コメント作成"
+
+#: /View/B2bsComments/edit.ctp:21 /View/B2bsComments/view.ctp:279;461;672
+#: /View/B2bsPosts/edit.ctp:21 /View/B2bsPosts/view.ctp:265;474
+#: /View/B2bses/view.ctp:234
+msgid "Edit"
+msgstr "編集"
+
+#: /View/B2bsComments/view.ctp:76 /View/B2bsPosts/view.ctp:64
+msgid "Comments"
+msgstr "コメント"
+
+#: /View/B2bsComments/view.ctp:203;387;597 /View/B2bsPosts/view.ctp:191;220;399
+msgid "Remove likes"
+msgstr "高く評価を取り消す"
+
+#: /View/B2bsComments/view.ctp:203;387;597 /View/B2bsPosts/view.ctp:191;220;399
+msgid "Do likes"
+msgstr "高く評価する"
+
+#: /View/B2bsComments/view.ctp:232;416;626 /View/B2bsPosts/view.ctp:428
+msgid "Remove unlikes"
+msgstr "低く評価を取り消す"
+
+#: /View/B2bsComments/view.ctp:232;416;626 /View/B2bsPosts/view.ctp:428
+msgid "Do unlikes"
+msgstr "低く評価する"
+
+#: /View/B2bsComments/view.ctp:269;452;663 /View/B2bsPosts/view.ctp:255;465
+msgid "Delete"
+msgstr "削除"
+
+#: /View/B2bsComments/view.ctp:307;488;701 /View/B2bsPosts/view.ctp:292;502
+msgid "Quote this posts"
+msgstr "引用する"
+
+#: /View/B2bsComments/view.ctp:317;498;711 /View/B2bsPosts/view.ctp:302;512
+msgid "Write comment"
+msgstr "コメントを書く"
+
+#: /View/B2bsComments/view.ctp:522
+msgid "This comments has not yet been published"
+msgstr "このコメントはまだ公開されていません"
+
+#: /View/B2bsComments/view.ctp:530 /View/B2bsPosts/view.ctp:326
+msgid "There are not comments"
+msgstr "コメントはありません"
+
+#: /View/B2bsPosts/add.ctp:15 /View/B2bses/view.ctp:23
+msgid "Create post"
+msgstr "記事作成"
+
+#: /View/B2bsPosts/view.ctp:318
+msgid "This posts has not yet been published"
+msgstr "この記事はまだ公開されていません"
+
+#: /View/B2bses/notCreateB2bs.ctp:12
+msgid "There are not published b2bs"
+msgstr "公開されている掲示板はありません"
+
+#: /View/B2bses/view.ctp:87
+msgid "Posts"
+msgstr "記事"
+
+#: /View/B2bses/view.ctp:187
+msgid "Publishing comments"
+msgstr "公開中のコメント"
+
+#: /View/B2bses/view.ctp:189
+msgid "Edit status of comments"
+msgstr "編集中のコメント"
+
+#: /View/B2bses/view.ctp:255
+msgid "There are not posts"
+msgstr "記事はありません"
+
+#: /View/Elements/approving_buttons.ctp:30
+msgid "Approving"
+msgstr "承認する"
+
+#: /View/Elements/B2bsAuthoritySettings/auth_setting.ctp:3
+msgid "Post creatable authority"
+msgstr "記事作成権限"
+
+#: /View/Elements/B2bsAuthoritySettings/auth_setting.ctp:10;64;117
+msgid "Room administrator"
+msgstr "ルーム管理者"
+
+#: /View/Elements/B2bsAuthoritySettings/auth_setting.ctp:21;75;128
+msgid "Cheif editor"
+msgstr "編集長"
+
+#: /View/Elements/B2bsAuthoritySettings/auth_setting.ctp:32;86;139
+msgid "Editor"
+msgstr "編集者"
+
+#: /View/Elements/B2bsAuthoritySettings/auth_setting.ctp:43;97;150
+msgid "General"
+msgstr "一般"
+
+#: /View/Elements/B2bsAuthoritySettings/auth_setting.ctp:57
+msgid "Post publishable authority"
+msgstr "記事公開権限"
+
+#: /View/Elements/B2bsAuthoritySettings/auth_setting.ctp:110
+msgid "Comment creatable authority"
+msgstr "コメント作成権限"
+
+#: /View/Elements/B2bsFrameSettings/frame_setting.ctp:3
+msgid "Visible post row"
+msgstr "記事表示件数"
+
+#: /View/Elements/B2bsFrameSettings/frame_setting.ctp:22
+msgid "Visible comment row"
+msgstr "コメント表示件数"
+
+#: /View/Elements/B2bses/edit.ctp:32
+msgid "Use comment"
+msgstr "コメントを利用する"
+
+#: /View/Elements/B2bses/edit.ctp:44
+msgid "Auto approval"
+msgstr "自動承認する"
+
+#: /View/Elements/B2bses/edit.ctp:56
+msgid "Use like button"
+msgstr "高く評価ボタンを利用する"
+
+#: /View/Elements/B2bses/edit.ctp:69
+msgid "Use unlike button"
+msgstr "低く評価ボタンを利用する"
