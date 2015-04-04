@@ -128,7 +128,7 @@ class B2bses extends CakeMigration {
 				'language_id' => 2,
 				'key' => 'b2bses',
 				'namespace' => 'netcommons/b2bses',
-				'name' => '掲示板bk',
+				'name' => '旧掲示板',
 				'type' => 1,
 			),
 		),
